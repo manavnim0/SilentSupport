@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+.venv/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+*.swp
+
+# Python test results
+*.coverage
+.coverage.*
+.cache/
+nosetests.xml
+test-results/
+
+# SSL Certificates and Keys
+*.crt
+*.key
+*.pem
+
+# Packer (if using Neovim)
+packer_compiled.lua
+
+# pipenv / poetry /
