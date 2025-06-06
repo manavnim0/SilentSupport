@@ -1,0 +1,26 @@
+{
+  "name": "sptassist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavnim0/SilentSupport.git"
+  },
+  "author": "manav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manavnim0/SilentSupport/issues"
+  },
+  "homepage": "https://github.com/manavnim0/SilentSupport#readme",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "readline": "^1.3.0",
+    "ws": "^8.18.2"
+  }
+}
